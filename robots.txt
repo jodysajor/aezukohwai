@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hohdahtee.wsr2.com/sitemap.xml
